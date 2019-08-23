@@ -10,6 +10,7 @@ A simple web page representation of my resume. This page was built using pure HT
 To install and run this project you would need to have listed stack installed:
 
 - Git
+
   To run:
 
 ```
